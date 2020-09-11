@@ -16,3 +16,6 @@ ramesh testing
 
 rmeshs test 3
 
+
+New Path:
+/home/mprkvco/public_html/themes/warehouse/assets/js/custom-account-here.js
