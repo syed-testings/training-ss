@@ -6,3 +6,7 @@
 /home/mprkvco/public_html/themes/warehouse/templates/customer/_partials/customer-form.tpl
 /home/mprkvco/public_html/themes/warehouse/templates/customer/_partials/customer-form-identity.tpl
 /home/mprkvco/public_html/themes/warehouse/assets/js/custom-account.js
+
+
+New Path:
+/home/mprkvco/public_html/themes/warehouse/assets/js/custom-account-here.js
