@@ -22,7 +22,7 @@
  * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License 3.0 (AFL-3.0)
  * International Registered Trademark & Property of PrestaShop SA
  *}
-
+ramesh test commit allzssdas
 {if $field.type == 'hidden'}
   {block name='form_field_item_hidden'}
     <input type="hidden" name="{$field.name}" value="{$field.value}">
