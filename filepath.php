@@ -21,3 +21,7 @@ New Path:
 /home/mprkvco/public_html/themes/warehouse/assets/js/custom-account-here.js
 
 //lavanya test change git 2.56pm
+
+
+
+// Added on 2nd session - syed  
