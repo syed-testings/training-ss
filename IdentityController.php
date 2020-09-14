@@ -1,4 +1,6 @@
 <?php
+
+Added new commet to test git ignore
 /**
  * 2007-2019 PrestaShop and Contributors
  *
